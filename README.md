@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel C</h1>
 <h3 align="center">a Cybersecurity graduate and passionate techie!</h3>
 
-- 🌱 I’m currently studying for the **Blue Team Level 1 Certification and PenTest+**
+- 🌱 I’m currently studying for the **Blue Team Level 1 Certification and Security+**
 
 - 📝 I update my activity and write blog posts on my website at [dachmikin.org](dachmikin.org)
 
